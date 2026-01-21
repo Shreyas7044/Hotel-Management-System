@@ -68,7 +68,7 @@ Given predefined **Hotel Data** and **User Data**, perform the following operati
 ---
 
 ## 📸 Sample Output
-![Application Screenshot]()
+![Application Screenshot](Hotel-Management-System/screenshot.png)
 
 ---
 
