@@ -1,4 +1,4 @@
-# Hotel Management System – Python
+# Hotel Management System
 
 ## 📌 Overview
 This is a **console-based Hotel Management System** implemented in **Python**, designed as a **machine coding round solution**.
